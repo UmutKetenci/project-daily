@@ -1,2 +1,2 @@
 # project-daily
-Basic projects to train hooks and API's.
+Projects to train hooks and API's.
