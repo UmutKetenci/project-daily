@@ -1,0 +1,14 @@
+.weather-icon-center {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 5rem;
+}
+.main-weather-info,
+.other-weather-info {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
+  align-items: center;
+  height: 4rem;
+}
