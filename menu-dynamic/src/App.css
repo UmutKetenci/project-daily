@@ -1,0 +1,30 @@
+.center {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 992px;
+}
+.center h1 {
+  text-align: center;
+  width: 100%;
+}
+.categories {
+  display: flex;
+}
+.category-btn {
+  width: auto;
+}
+.menu {
+  margin: 2rem auto 0 auto;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem 2rem;
+}
+.item {
+  border: 0.2px solid papayawhip;
+
+  padding: 0.2rem;
+}
+.title {
+  text-transform: capitalize;
+}
