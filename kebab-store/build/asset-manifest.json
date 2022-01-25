@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bbcab7eb.css",
+    "main.js": "/static/js/main.6d5a0958.js",
+    "static/media/lahmacun.jpeg": "/static/media/lahmacun.3e01fd72ab922ec6b6f0.jpeg",
+    "static/media/adana.jpeg": "/static/media/adana.a526012aba8320e44c6d.jpeg",
+    "static/media/sish.jpeg": "/static/media/sish.09952ebcdeb9a24a61be.jpeg",
+    "static/media/doner.jpeg": "/static/media/doner.f64c555a2d5377d655ad.jpeg",
+    "static/media/adana2.jpeg": "/static/media/adana2.48134f1f11d273523b57.jpeg",
+    "static/media/logo.png": "/static/media/logo.a6972dab63b5a8e8a516.png",
+    "index.html": "/index.html",
+    "main.bbcab7eb.css.map": "/static/css/main.bbcab7eb.css.map",
+    "main.6d5a0958.js.map": "/static/js/main.6d5a0958.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbcab7eb.css",
+    "static/js/main.6d5a0958.js"
+  ]
+}
