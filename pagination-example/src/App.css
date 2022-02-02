@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(129, 150, 150);
+}
+.section-title h1 {
+  text-align: center;
+}
+img {
+  width: 100%;
+  border-radius: 50%;
+}
+.center {
+  width: 90%;
+
+  margin: 0 auto;
+}
+
+.img-wrapper {
+  width: 5rem;
+  margin: 0 auto;
+}
+.person-card {
+  width: auto;
+  background-color: aliceblue;
+  border-radius: 10px;
+  padding: 0.5rem;
+  text-align: center;
+}
+.following-people {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fit, minmax(auto, 8rem));
+  gap: 2rem 6rem;
+}
