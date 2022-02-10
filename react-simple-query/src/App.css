@@ -1,0 +1,19 @@
+.countries {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 20rem);
+  gap: 2rem;
+
+  justify-content: center;
+}
+
+.country {
+  background-color: rgb(197, 197, 197);
+  width: 20rem;
+  text-align: center;
+  padding: 1rem 0.2rem;
+}
+.select-continent {
+  text-align: center;
+  margin: 1rem;
+  width: 10rem;
+}
