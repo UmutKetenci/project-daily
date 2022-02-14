@@ -1,0 +1,35 @@
+.comment {
+  display: grid;
+  grid-template-columns: 5rem auto;
+  gap: 0 1rem;
+  padding: 0.2rem;
+  margin-bottom: 1rem;
+}
+.comment-img-container {
+  width: 3rem;
+}
+.comment-img {
+  width: 100%;
+  border-radius: 50%;
+}
+.comment-content {
+  display: grid;
+  grid-template-columns: 5rem auto;
+}
+.replies {
+  margin: 0.5rem;
+}
+.comment-actions {
+  display: grid;
+  grid-template-columns: 3rem 2.5rem 4rem;
+  gap: 1rem;
+  margin: 0.2rem;
+}
+.comment-action {
+  cursor: pointer;
+  text-align: center;
+
+  background-color: transparent;
+  border: none;
+  font-size: 0.8rem;
+}
